@@ -36,3 +36,13 @@ button:hover {
   max-width: 200px;
   margin: 30px auto;
 }
+
+.seo-text {
+  background-color: black;
+  font-size: 16px;
+  line-height: 1.5;
+  color:white;
+  padding: 20px;
+  max-width: 600px;
+  margin: 40px auto;
+}
